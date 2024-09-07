@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3E046B&center=true&vCenter=true&multiline=true&width=435&lines=Software+Engineer+and+UI+UX+Student.+Be+patient.+I'm+working+on+my+github+yet.;Enthusiast+of+Languages%2C+Arts+and+Psychology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29004F&width=435&lines=Software+Engineer+Student;UIUX+Designer+and+lover+of+Arts;Enthusiast+of+Languages+%26+Psychology)](https://git.io/typing-svg)
 <!--
 **araujo-mariana/araujo-mariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

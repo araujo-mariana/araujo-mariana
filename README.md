@@ -1,6 +1,11 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=29004F&center=true&vCenter=true&width=600&lines=Hi!+I'm+Mariana;Welcome+to+my+GitHub+Profile!;Software+Engineer+Student;UIUX+Designer;Lover+of+Languages+and+Arts)](https://git.io/typing-svg)
 
+### Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaraujojc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/studies.mariaraujojc)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mariaraujojc)
+
 <!--
 **araujo-mariana/araujo-mariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> Adicionei uma animação de texto nova
+--> Adicionei uma animação de texto nova e minhas redes sociais
+

@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=CB2D8E&center=true&vCenter=true&width=600&lines=Hi!+I'm+Mariana;Welcome+to+my+GitHub+Profile!;Software+Engineer+Student;UIUX+Designer;Lover+of+Languages+and+Arts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=C62195&center=true&vCenter=true&width=600&lines=Hi!+I'm+Mariana;Welcome+to+my+GitHub+Profile!;Software+Engineer+Student;UIUX+Designer;Lover+of+Languages+and+Arts)](https://git.io/typing-svg)
 
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaraujojc)

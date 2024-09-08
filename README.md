@@ -11,7 +11,7 @@
 ### Recent Contributions:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=araujo-mariana&theme=dark&background=0d1117&stroke=ffffff&ring=58a6ff&fire=ff6e96&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=araujo-mariana&theme=dark&background=0d1117&stroke=ffffff&ring=ff69b4&fire=ff69b4&currStreakNum=ffb6c1&sideNums=ffb6c1&currStreakLabel=ff69b4&sideLabels=ffb6c1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=araujo-mariana&theme=dark&background=0d1117&stroke=ffffff&ring=ff69b4&fire=ff69b4&currStreakNum=ffffffsideNums=ffb6c1&currStreakLabel=ff69b4&sideLabels=ffffff)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujo-mariana&theme=react-dark&area=true&hide_border=true)
 

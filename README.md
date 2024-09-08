@@ -11,7 +11,7 @@
 ### Recent Contributions:
 ![GitHub Contributions](https://github-contribution-stats.vercel.app/api?username=araujo-mariana)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=araujo-mariana&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seu-username&theme=react-dark&area=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-mariana&layout=compact&theme=dracula)
 

@@ -20,7 +20,7 @@ I'm a 24-years-ols girl with an insatiable curiosity and a love for exploring di
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-mariana&layout=compact&theme=dracula)
 
-  ![Profile views](https://visitor-badge.glitch.me/badge?page_id=araujo-mariana.araujo-mariana)
+  ![Profile views](https://img.shields.io/badge/Profile%20Views-5000-ff69b4?style=flat-square)
 
 </div>
 

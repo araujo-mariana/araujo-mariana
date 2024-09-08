@@ -51,6 +51,25 @@ I am pursuing a degree in Software Engineering with a specialization in the psyc
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujo-mariana&theme=react-dark&area=true&hide_border=true)
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-mariana&layout=compact&theme=dracula)
+  ### Languages Proficiency
+
+| Language   | Proficiency |
+|------------|-------------|
+| Portuguese | C2          |
+| English    | C1          |
+| Spanish    | B1          |
+| French     | B1          |
+| German     | A1          |
+| Korean     | A1          |
+| Japanese   | A1          |
+| Italian    | Basic       |
+| Latin      | Basic       |
+| Chinese    | Basic       |
+| Norwegian  | Basic       |
+| Russian    | Basic       |
+| Swiss      | Basic       |
+| Danish     | Basic       |
+
 
   ![Profile views](https://komarev.com/ghpvc/?username=araujo-mariana&color=ff69b4)
 

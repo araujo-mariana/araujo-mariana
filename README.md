@@ -11,6 +11,8 @@
 ### Recent Contributions:
 ![GitHub Contributions](https://github-contribution-stats.vercel.app/api?username=araujo-mariana)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-mariana&layout=compact&theme=dracula)
+
 <!--
 **araujo-mariana/araujo-mariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

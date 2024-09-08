@@ -1,7 +1,7 @@
 ## 👋🏽 Hello! I'm delighted to see you :)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=C62195&center=true&vCenter=true&width=600&lines=Hi!+I'm+Mariana;Welcome+to+my+GitHub+Profile!;Software+Engineer+Student;UIUX+Designer;Lover+of+Languages+and+Arts)](https://git.io/typing-svg)
 
-I'm a 24-years-ols girl with an insatiable curiosity and a love for exploring diverse subjects. Creativity drives me, and I thrive on finding innovative solutions to challenge problems.
+I'm a 24-years-old girl with an insatiable curiosity and a love for exploring diverse subjects. Creativity drives me, and I thrive on finding innovative solutions to challenge problems.
 
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaraujojc)
@@ -20,7 +20,7 @@ I'm a 24-years-ols girl with an insatiable curiosity and a love for exploring di
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-mariana&layout=compact&theme=dracula)
 
-  ![Profile views](https://img.shields.io/badge/Profile%20Views-5000-ff69b4?style=flat-square)
+  ![Profile views](https://komarev.com/ghpvc/?username=araujo-mariana&color=ff69b4)
 
 </div>
 

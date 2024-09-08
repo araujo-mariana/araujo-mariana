@@ -26,10 +26,10 @@ I am eager to engage in challenging projects to gain market experience without p
 
 I am pursuing a degree in Software Engineering with a specialization in the psychology of design and disruptive technologies. My goal is to explore how our vision can contribute to cognitive and intellectual growth through user-focused software. Currently, I am working on several projects with my university teams:
 
-1. **Gamified eLearning Platform for Languages:** Developing an innovative language learning website with research phases, testing with student volunteers, and interface design. The project includes defining the name, objectives, persona, personality, and branding. Our team comprises three developers, with three potential collaborators.
+1. **Gamified eLearning Platform for Languages:** Developing an innovative language learning website with research phases, testing with student volunteers, and interface design. The project has already defined the name, objectives, persona, personality, and branding. Our team comprises three developers, with three potential collaborators.
 2. **Intelligent Animal Adoption Search App:** An application to streamline the process of finding animals in need of adoption.
 3. **Gamified Time Management App for ADHD:** Targeted at users aged 10-18, this app focuses on helping manage time effectively.
-4. **Intelligent Transportation App:** A smart solution for managing transportation needs.
+4. **Intelligent Public Transportation App:** A smart solution for managing transportation needs.
 5. **Sales Tracking App:** An application designed to efficiently track and manage sales activities.
 
 

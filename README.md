@@ -9,7 +9,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=araujo-mariana&show_icons=true&theme=radical)
 
 ### Recent Contributions:
-![GitHub Contributions](https://github-contribution-stats.vercel.app/api?username=araujo-mariana)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seu-username&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=9ecbff&point=ffffff&custom_title=Contributions)
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujo-mariana&theme=react-dark&area=true&hide_border=true)
 

@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏽 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=C62195&center=true&vCenter=true&width=600&lines=Hi!+I'm+Mariana;Welcome+to+my+GitHub+Profile!;Software+Engineer+Student;UIUX+Designer;Lover+of+Languages+and+Arts)](https://git.io/typing-svg)
 
 ### Let's connect!
@@ -7,6 +7,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mariaraujojc)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=araujo-mariana&show_icons=true&theme=radical)
+
+### Recent Contributions:
+![GitHub Contributions](https://github-contribution-stats.vercel.app/api?username=araujo-mariana)
+
 <!--
 **araujo-mariana/araujo-mariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

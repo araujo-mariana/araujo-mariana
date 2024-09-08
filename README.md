@@ -10,7 +10,7 @@ I'm Mariana, a 24-year-old with an insatiable curiosity and a passion for explor
 
 ### About Me
 
-I'm proficient in Portuguese (C2), English (C1), Spanish and French (B1), and have basic knowledge of German, Korean, and Japanese (A1). Additionally, I have familiarity with Italian, Latin, Chinese, Norwegian, Russian, Swiss, and Danish. My background in theater has enhanced my public speaking skills, enabling me to communicate impactfully and motivate others with confidence. Despite being introverted, I possess strong social skills and thrive in collaborative environments.
+I'm proficient in Portuguese (C2), English (C1), Spanish and French (B1), and have basic knowledge of German, Korean, and Japanese (A1). Additionally, I have familiarity with Italian, Latin, Chinese, Norwegian, Russian, Swedish, and Danish. My background in theater has enhanced my public speaking skills, enabling me to communicate impactfully and motivate others with confidence. Despite being introverted, I possess strong social skills and thrive in collaborative environments.
 
 I have a deep love for animals and play three musical instruments. Arts are integral to my life, shaping my ability to recognize patterns and generate both visual and intellectual insights. I enjoy studying a wide range of subjects, from mathematical sciences and philosophy to humanities and natural sciences, which sharpens my analytical capabilities and broadens my cultural perspectives.
 
@@ -72,7 +72,7 @@ I am pursuing a degree in Software Engineering with a specialization in the psyc
 | Chinese    | Basic       |
 | Norwegian  | Basic       |
 | Russian    | Basic       |
-| Swiss      | Basic       |
+| Swedish    | Basic       |
 | Danish     | Basic       |
 
 </div>

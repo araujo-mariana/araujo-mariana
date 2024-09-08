@@ -50,25 +50,89 @@ I am pursuing a degree in Software Engineering with a specialization in the psyc
 
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujo-mariana&theme=react-dark&area=true&hide_border=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-mariana&layout=compact&theme=dracula)
-  ### Languages Proficiency
+ <div align="center">
+  
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    
+    <!-- Gráfico das linguagens mais usadas -->
+    <div>
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-mariana&layout=compact&theme=dracula)
+    </div>
+    
+    <!-- Tabela de proficiência em idiomas -->
+    <div>
+      <table>
+        <thead>
+          <tr>
+            <th style="padding: 10px; background-color: #6272a4; color: #f8f8f2;">Language</th>
+            <th style="padding: 10px; background-color: #6272a4; color: #f8f8f2;">Proficiency</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Portuguese</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">C2</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">English</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">C1</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Spanish</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">B1</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">French</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">B1</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">German</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">A1</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Korean</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">A1</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Japanese</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">A1</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Italian</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Basic</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Latin</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Basic</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Chinese</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Basic</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Norwegian</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Basic</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Russian</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Basic</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Swiss</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Basic</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Danish</td>
+            <td style="padding: 10px; background-color: #44475a; color: #f8f8f2;">Basic</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    
+  </div>
+  
+</div>
 
-| Language   | Proficiency |
-|------------|-------------|
-| Portuguese | C2          |
-| English    | C1          |
-| Spanish    | B1          |
-| French     | B1          |
-| German     | A1          |
-| Korean     | A1          |
-| Japanese   | A1          |
-| Italian    | Basic       |
-| Latin      | Basic       |
-| Chinese    | Basic       |
-| Norwegian  | Basic       |
-| Russian    | Basic       |
-| Swiss      | Basic       |
-| Danish     | Basic       |
 
 
   ![Profile views](https://komarev.com/ghpvc/?username=araujo-mariana&color=ff69b4)

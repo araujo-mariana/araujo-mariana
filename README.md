@@ -35,7 +35,15 @@ I am pursuing a degree in Software Engineering with a specialization in the psyc
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=araujo-mariana&show_icons=true&theme=radical)
+### Skills & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Gamification](https://img.shields.io/badge/Gamification-6A0DAD?style=for-the-badge&logo=game-controller&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=araujo-mariana&show_icons=true&theme=radical)
 
 ### Recent Contributions:
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=araujo-mariana&theme=dark&background=3d144319&stroke=ffffff&ring=01F9F9&fire=F9BB01&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=01F9F9&sideLabels=C62195)

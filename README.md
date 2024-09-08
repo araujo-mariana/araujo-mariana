@@ -1,4 +1,6 @@
-## Hi there 👋🏽 
+## 👋🏽 Hello! I'm delighted to see you :)
+I'm a 24-years-ols girl with an insatiable curiosity and a love for exploring diverse subjects. Creativity drives me, and I thrive on finding innovative solutions to challenge problems.
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=C62195&center=true&vCenter=true&width=600&lines=Hi!+I'm+Mariana;Welcome+to+my+GitHub+Profile!;Software+Engineer+Student;UIUX+Designer;Lover+of+Languages+and+Arts)](https://git.io/typing-svg)
 
 ### Let's connect!
@@ -16,9 +18,13 @@
 
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujo-mariana&theme=react-dark&area=true&hide_border=true)
 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-mariana&layout=compact&theme=dracula)
+
+  ![Profile views](https://visitor-badge.glitch.me/badge?page_id=araujo-mariana.araujo-mariana)
+
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=araujo-mariana&layout=compact&theme=dracula)
+
 
 <!--
 **araujo-mariana/araujo-mariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

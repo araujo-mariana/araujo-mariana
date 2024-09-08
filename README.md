@@ -6,11 +6,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/studies.mariaraujojc)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mariaraujojc)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=araujo-mariana&show_icons=true&theme=radical)
+
+<div align="center">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=araujo-mariana&show_icons=true&theme=radical)
 
 ### Recent Contributions:
-<div align="center">
-  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=araujo-mariana&theme=dark&background=3d144319&stroke=ffffff&ring=01F9F9&fire=F9BB01&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=01F9F9&sideLabels=C62195)
 
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujo-mariana&theme=react-dark&area=true&hide_border=true)

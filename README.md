@@ -1,6 +1,8 @@
 ## 👋🏽 Hello! I'm delighted to see you :)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=C62195&center=true&vCenter=true&width=600&lines=Hi!+I'm+Mariana;Welcome+to+my+GitHub+Profile!;Software+Engineer+Student;UIUX+Designer;Lover+of+Languages+and+Arts)](https://git.io/typing-svg)
 
+
+
 I'm Mariana, a 24-year-old with an insatiable curiosity and a passion for exploring diverse subjects. Creativity drives me, and I thrive on finding innovative solutions to complex problems. My fluency in multiple languages and extensive extracurricular activities have honed my ability to think creatively and tackle challenges head-on. I don't shy away from challenges; instead, I pursue them with enthusiasm and determination.
 
 ### Let's connect!
